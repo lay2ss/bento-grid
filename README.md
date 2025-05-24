@@ -1,6 +1,6 @@
 # 🎨 Bento Grid - Frontend Mentor Challenge
 
-This project is part of a *Frontend Mentor challenge, where I built a **Bento-style grid layout** using *HTML and CSS*. The challenge focused on designing a visually aesthetic layout while maintaining responsiveness and accessibility.
+This project is part of a *Frontend Mentor challenge, where I built a* **Bento-style grid layout** *using HTML and CSS*. The challenge focused on designing a visually aesthetic layout while maintaining responsiveness and accessibility.
 
 ## 📌 Objective
 The goal of this challenge was to create a *beautiful and functional Bento-style grid, utilizing the flexibility of* **CSS Grid** for precise control over the arrangement of elements.
