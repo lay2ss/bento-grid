@@ -17,6 +17,6 @@ This challenge introduced me to *CSS Grid* for the first time. I learned:
 - Combining *Flexbox and Grid* for more dynamic UI  
 
 ## 🚀 Live Demo
-Check out the live preview: *https://lay2ss.github.io/bento-grid-main/*
+Check out the live preview: *https://lay2ss.github.io/bento-grid/*
 
 ![Preview](assets/screenshot.png)
